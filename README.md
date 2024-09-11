@@ -15,7 +15,7 @@ This project features a well-organized layout with a header, a timeline of updat
 
 ## Visuals
 
-![Changelog Component Screenshot](Screenshot.png)  
+![Changelog Component Screenshot](Screenshot.png)
 
 ## Installation
 
@@ -68,3 +68,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Project Status
 
 This project is actively maintained. However, if you find any issues or have suggestions for improvements, please feel free to reach out or contribute.
+
+## Project URL
+
+For more details, visit the [Changelog Component Project Page](https://roadmap.sh/projects/changelog-component).
