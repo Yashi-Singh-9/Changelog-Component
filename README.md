@@ -24,7 +24,7 @@ To get started with the Changelog Component, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://gitlab.com/Yashi-Singh-9/changelog-component.git
+   git clone https://github.com/Yashi-Singh-9/Changelog-Component.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -38,10 +38,6 @@ To get started with the Changelog Component, follow these steps:
    You can open the `index.html` file in your preferred web browser to view the component.
 
    If you want to integrate this component into an existing project, simply copy the HTML and CSS code into your project files.
-
-## Support
-
-For any issues or questions, please open an issue on the [GitLab Issues Page](https://gitlab.com/Yashi-Singh-9/changelog-component/-/issues).
 
 ## Roadmap
 
